@@ -123,6 +123,9 @@ author:
 
 # Site Footer
 footer:
+  github           : "tlsgustn"
+  instagram        : "@shscatenary"
+  
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
