@@ -98,6 +98,7 @@ author:
   bio              : "developer"
   location         : "Incheon, South Korea"
   email            : "2091126@hansung.ac.kr"
+  github           : "https://github.com/tlsgustn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
