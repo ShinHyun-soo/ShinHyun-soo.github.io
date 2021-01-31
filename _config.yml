@@ -96,10 +96,9 @@ author:
   name             : "Shin Hyun-soo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "developer"
-  location         : "Incheon, South Korea"
   email            : "2091126@hansung.ac.kr"
   github           : "ShinHyun-soo"
-  instagram        : ""
+  
   
   links:
     - label: "Email"
