@@ -1,6 +1,6 @@
 ---
 제목 : O2O Sevice Platform startup
-날짜 : 2021 년 2 월 26 일 10시 10:00 -0400 
+날짜 : 2021 년 2 월 26 일 22시 10:00 -0400 
 카테고리 : Projects(Completed)
 ---
  
