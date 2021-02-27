@@ -6,4 +6,6 @@
  
 https://xd.adobe.com/view/2a3b7b7d-d078-4914-a442-d4cbefbacbb5-7f68/
 <br><br>
-(2020.09-2021.01)
+Temporary job matching platform.
+<br><br>
+(2020.09 - 2021.01)
