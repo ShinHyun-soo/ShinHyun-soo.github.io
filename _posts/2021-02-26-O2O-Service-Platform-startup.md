@@ -1,9 +1,12 @@
 ---
-제목 : O2O Sevice Platform startup
+제목 : 우주대타 (2020 제 1회 캠퍼스CEO 캡스톤어워즈 수상작)
 날짜 : 2021 년 2 월 26 일 22시 10:00 -0400 
 카테고리 : Projects(Completed)
 ---
- Temporary job matching platform. 
+<h1>Temporary job matching platform.</h1> <br>
+![image](https://user-images.githubusercontent.com/69250097/135698675-8876bb83-d3bb-4c86-b4f7-a1aa656578bd.png)
+![image](https://user-images.githubusercontent.com/69250097/135614331-5d0d9474-d24c-41d2-8f05-8c254a7f28d1.png)
+
  <br><br>
  ![image](https://user-images.githubusercontent.com/69250097/135613495-2c419d4f-ceb3-48bf-ae74-7b55ccf02edf.png)
 ![image](https://user-images.githubusercontent.com/69250097/135613564-595c96b4-22d2-4c4c-b09c-331d459e70ed.png)
@@ -15,6 +18,6 @@
 https://xd.adobe.com/view/2a3b7b7d-d078-4914-a442-d4cbefbacbb5-7f68/
 <br><br>
 
-![image](https://user-images.githubusercontent.com/69250097/135613859-868a0641-f4c9-48a7-bc28-fce34ad67250.png)
-![image](https://user-images.githubusercontent.com/69250097/135613960-4c14fc94-e474-4001-8f2a-5b6d3d4be3d2.png)
-![image](https://user-images.githubusercontent.com/69250097/135614331-5d0d9474-d24c-41d2-8f05-8c254a7f28d1.png)
+참고 문헌 : "제 1회 캠퍼스CEO 캡스톤어워즈", SBA아카데미, 2021-10-02 접속, https://academy.sba.kr/course/course_view.jsp?id=29175&cid=6658&lnb=6681&ch=course <br> 
+sba, 2021, 『2020 제 1회 캠퍼스 CEO 캡스톤어워즈』, 서울산업진흥원, p 22
+
