@@ -15,8 +15,6 @@
 ![image](https://user-images.githubusercontent.com/69250097/135613740-c60174d4-69dc-4cd5-82ec-1dd4605b7b40.png)
 
 <br><br>
-https://xd.adobe.com/view/2a3b7b7d-d078-4914-a442-d4cbefbacbb5-7f68/
-<br><br>
 
 참고 문헌 : "제 1회 캠퍼스CEO 캡스톤어워즈", SBA아카데미, 2021-10-02 접속, https://academy.sba.kr/course/course_view.jsp?id=29175&cid=6658&lnb=6681&ch=course <br> 
 sba, 2021, 『2020 제 1회 캠퍼스 CEO 캡스톤어워즈』, 서울산업진흥원, p 22
