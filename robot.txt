@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tlsgustn.github.io/sitemap.xml
+Sitemap: https://shinhyun-soo.github.io/sitemap.xml
