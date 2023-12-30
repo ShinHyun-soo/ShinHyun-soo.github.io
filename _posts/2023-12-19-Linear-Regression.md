@@ -4,13 +4,12 @@
 카테고리 : DL
 ---
 
-Linear Regression 수학적 분석
+수학적 분석
 
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-# Linear Regression
 
 &nbsp;인공지능에서 선형 회귀를 사용하면 기존의 데이터 셋을 바탕으로 새로운 데이터를 예측 할 수 있습니다. <br> 이 글에서는 예측 과정을 수학적으로 분석하여 원리를 탐구해 보도록 하겠습니다.
 
