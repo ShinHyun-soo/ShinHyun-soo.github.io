@@ -4,8 +4,6 @@
 카테고리 : DL
 ---
 
-수학적 분석
-
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -77,7 +75,3 @@ $$\theta_0=2.28+0.2(11-3-2.28) = 3.424 $$ <br>
 3 iteration 을 통해 구한 모델은 다음과 같습니다. <br>
 $$ \hat{y} = 3.504x+3.424 $$ 
  
-데이터 셋을 추가하여 정답 값인 3x+2 에 도달하는지 직접 해보셔도 좋을 것 같습니다.   
-
-### 출처
-&nbsp; 신경식 강사님의 '수학적으로 접근하는 딥러닝' 이란 강의로 공부한 내용입니다.
