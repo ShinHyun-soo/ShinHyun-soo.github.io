@@ -4,4 +4,7 @@
 카테고리 : DL
 ---
 
-MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [Yang Zhao Et al. arXiv 2023]    
+MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [Zhao, Yang, et al., arXiv 2023]    
+
+요약 : MobileDiffusion은 아키텍쳐와 샘플링 기술 최적화를 통해 모바일 기기에서 512 x 512 이미지를 1초 미만의 시간으로 생성할 수 있게 함.    
+
