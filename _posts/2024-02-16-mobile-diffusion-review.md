@@ -1,5 +1,5 @@
 ---
-제목 : Mobile Diffusion Study Review
+제목 : Mobile Diffusion Review
 날짜 : 2024 년 2 월 16 일 19시 10:00 -0400 
 카테고리 : DL
 ---
