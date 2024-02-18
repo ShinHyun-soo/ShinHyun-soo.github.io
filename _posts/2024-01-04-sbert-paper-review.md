@@ -207,7 +207,6 @@ Facebook의 함께 아는 친구는 3.5 다리만 거치면 다 연결되는 sma
 
 #### 추신(BERT 의 한계)
 
-다른 교수님의 설명 :<br>
 BERT 에서 파생된 것이 많은데, 핵심은 embbeding Pooling 기법입니다.<br>
 하나의 Learnable Cls 를 쓸거냐 Average Pooling 을 쓸거냐. <br>
 요새는 Transformer 든 Video 에서든 아무거나 써도 크게 차이는 없다고 합니다. <br> 
@@ -227,5 +226,3 @@ Masked autoencoder 은 Masked 를 75% 한다. <br>
 <br>
 요즘 diffusion DPO 가 핫하다. <br> dpo 는 랭킹 로스학습 강화학습 같은 건데 강화학습은 아님.
 
-##### Reference
-학교 교수님께서 설명해주신 내용을 정리하였습니다. 
