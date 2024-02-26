@@ -1,1 +1,1 @@
-![image](https://github.com/ShinHyun-soo/ShinHyun-soo.github.io/assets/69250097/d0c27ab2-43d8-472f-9fe6-0aa9fb88793f)
+![image](https://github.com/ShinHyun-soo/ShinHyun-soo.github.io/assets/69250097/a77d0104-bc19-46f4-b42c-3a3429021d68)
