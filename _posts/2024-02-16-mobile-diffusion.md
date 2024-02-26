@@ -9,6 +9,7 @@ MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [Zhao, Yan
 요약 : MobileDiffusion은 아키텍쳐와 샘플링 기술 최적화를 통해 모바일 기기에서 512 x 512 이미지를 1초 미만의 시간으로 생성할 수 있게 함.    
 
 # 1. 트랜스포머 최적화
+&nbsp;
 ## 1.1. More transformers in the middle of Unet.  
    * 고해상도 트랜스포머를 저해상도(_fewer layers_) 트랜스포머로 대치.<br>
    * 저해상도 트랜스포머의 채널 크기(_Using Separable Conv_)를 줄임.<br>
