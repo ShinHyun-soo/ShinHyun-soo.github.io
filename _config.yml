@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "In the bleak midwinter"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Shin"
+name                     : "Hyunsoo"
 description              : "Tech blog"
 url                      : "https://ShinHyun-soo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -98,7 +98,7 @@ author:
   bio              : "Hansung University <br> Intelligent system"
   email            : "2091126@hansung.ac.kr"
   github           : "ShinHyun-soo"
- #instagram        : "hyun5ooo"
+ instagram        : "hyun5ooo"
   
   
   links:
