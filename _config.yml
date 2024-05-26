@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "In the bleak midwinter"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyunsoo"
+name                     : "Shin"
 description              : "Tech blog"
 url                      : "https://ShinHyun-soo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,9 +96,9 @@ author:
   name             : "Hyunsoo Shin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hansung University <br> Intelligent system"
-  email            : "2091126@hansung.ac.kr"
+  email            : "shinhs000624@gmail.com"
   github           : "ShinHyun-soo"
- instagram        : "hyun5ooo"
+ #instagram        : "hyun5ooo"
   
   
   links:
