@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "ko-KR"
 title                    : "In the bleak midwinter"
 title_separator          : "-"
-subtitle                 : AI Research
+subtitle                 : "AI Research"
 name                     : "Hyunsoo Shin"
 description              : "Paper Reivew"
 url                      : "https://ShinHyun-soo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
